@@ -115,6 +115,15 @@ a {
   list-style-type: none;
 }
 
+.gallery-item {
+
+  padding: 10px;
+  border: 1px solid #808080;
+  border-radius: 3px;
+  overflow: hidden;
+  position: relative;
+}
+
 .simple-lightbox {
   background-color: rgba(46, 47, 66, 0.8);
 }
